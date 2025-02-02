@@ -17,10 +17,11 @@ The Visio Template+ for expert courses like SC-100 and AZ-305 now includes an ad
 - **Focused Learning**: By spotlighting the course content and learning targets, it steers learners’ efforts towards essential areas, leading to more productive learning.
 - **Progress Tracking**: The blueprint allows learners to track their advancement and assess their command of the course material.
 
-## New Feature
-A comprehensive list of topics for each slide deck is now available in a downloadable .xlsx file. Each entry includes a link to Learn and its dependencies.
 
-## Download Links
+## Benefits for Trainers
+Trainers can follow this plan to design a tailored diagram for their course, filled with notes. They can construct this comprehensive diagram during class on a whiteboard and continuously add to it in each session. This evolving visual aid can be shared with students to enhance their grasp of the subject matter.
+
+## Download Links [PDF] [Visio] [Excel] [Video]
 - **Associate Level**: 
   - AZ-104 Azure Administrator Associate Blueprint https://aka.ms/AZ-104Blueprint
   - AZ-204 Azure Developer Associate Blueprint https://aka.ms/AZ-204Blueprint
@@ -32,9 +33,7 @@ A comprehensive list of topics for each slide deck is now available in a downloa
 - **Expert Level**: 
   - AZ-305 Designing Microsoft Azure Infrastructure Solutions Blueprint Template+
 
-## Conclusion
-Thank you for your support and collaboration. Looking forward to next year and how we can make it a standard baseline for our deliveries.
-```
+## Feedback
+Thank you for your support and collaboration. Please consider sharing your anonymous feedback https://forms.office.com/r/zyC4KAKwy0
 
-3. **Save the File**: Save the content in a file with the `.md` extension, for example, `AzureCourseBlueprints.md`.
 
