@@ -23,6 +23,7 @@ Trainers can follow this plan to design a tailored diagram for their course, fil
 [![Introduction to Course Blueprint](https://img.youtube.com/vi/BWIm7oZ4bXs/0.jpg)](https://www.youtube.com/watch?v=BWIm7oZ4bXs)
 
 Mod 01 AZ-104 Overview using Azure Course Blueprint
+
 [![Course Blueprint Overview](https://img.youtube.com/vi/ScWOzTKU8cc/0.jpg)](https://www.youtube.com/watch?v=ScWOzTKU8cc&list=PL_WtBm29y-f7XKjvM_yrbwZX0swu4ISNp)
 
 
