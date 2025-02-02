@@ -22,11 +22,11 @@ A comprehensive list of topics for each slide deck is now available in a downloa
 
 ## Download Links
 - **Associate Level**: 
-  - AZ-104 Azure Administrator Associate Blueprint Template
-  - AZ-204 Azure Developer Associate Blueprint Template
-  - AZ-500 Azure Security Engineer Associate Blueprint Template+
-  - AZ-700 Azure Network Engineer Associate Blueprint Template
-  - SC-300 Identity and Access Administrator Associate Blueprint Template
+  - AZ-104 Azure Administrator Associate Blueprint https://aka.ms/AZ-104Blueprint
+  - AZ-204 Azure Developer Associate Blueprint https://aka.ms/AZ-204Blueprint
+  - AZ-500 Azure Security Engineer Associate Blueprint https://aka.ms/AZ-500Blueprint
+  - AZ-700 Azure Network Engineer Associate Blueprint https://aka.ms/AZ-700Blueprint
+  - SC-300 Identity and Access Administrator Associate Blueprint https://aka.ms/SC-300Blueprint
 - **Specialty**: 
   - AZ-140 Azure Virtual Desktop Specialty Blueprint Template
 - **Expert Level**: 
