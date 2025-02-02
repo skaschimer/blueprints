@@ -31,6 +31,7 @@ Trainers can follow this plan to design a tailored diagram for their course, fil
   - AZ-140 Azure Virtual Desktop Specialty Blueprint https://aka.ms/AZ-140Blueprint
 - **Expert Level**: 
   - AZ-305 Designing Microsoft Azure Infrastructure Solutions Blueprint https://aka.ms/AZ-305Blueprint
+  - SC-100 Microsoft Cybersecurity Architect Blueprint https://aka.ms/SC-100Blueprint
 
 ## Feedback
 Thank you for your support and collaboration. 
