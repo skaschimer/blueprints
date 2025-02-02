@@ -20,6 +20,8 @@ The Visio Template+ for expert courses like SC-100 and AZ-305 now includes an ad
 ## Benefits for Trainers
 Trainers can follow this plan to design a tailored diagram for their course, filled with notes. They can construct this comprehensive diagram during class on a whiteboard and continuously add to it in each session. This evolving visual aid can be shared with students to enhance their grasp of the subject matter.
 
+[![Introduction to Course Blueprint](https://img.youtube.com/vi/BWIm7oZ4bXs/0.jpg)](https://www.youtube.com/watch?v=BWIm7oZ4bXs)
+
 ## Download Links [PDF] [Visio] [Excel] [Video]
 - **Associate Level**: 
   - AZ-104 Azure Administrator Associate Blueprint https://aka.ms/AZ-104Blueprint
