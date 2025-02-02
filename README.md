@@ -17,9 +17,10 @@ The Visio Template+ for expert courses like SC-100 and AZ-305 now includes an ad
 - **Focused Learning**: By spotlighting the course content and learning targets, it steers learners’ efforts towards essential areas, leading to more productive learning.
 - **Progress Tracking**: The blueprint allows learners to track their advancement and assess their command of the course material.
 
-
 ## Benefits for Trainers
 Trainers can follow this plan to design a tailored diagram for their course, filled with notes. They can construct this comprehensive diagram during class on a whiteboard and continuously add to it in each session. This evolving visual aid can be shared with students to enhance their grasp of the subject matter.
+
+[![Introduction to Course Blueprint](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Download Links [PDF] [Visio] [Excel] [Video]
 - **Associate Level**: 
@@ -29,11 +30,12 @@ Trainers can follow this plan to design a tailored diagram for their course, fil
   - AZ-700 Azure Network Engineer Associate Blueprint https://aka.ms/AZ-700Blueprint
   - SC-300 Identity and Access Administrator Associate Blueprint https://aka.ms/SC-300Blueprint
 - **Specialty**: 
-  - AZ-140 Azure Virtual Desktop Specialty Blueprint Template
+  - AZ-140 Azure Virtual Desktop Specialty Blueprint https://aka.ms/AZ-140Blueprint
 - **Expert Level**: 
-  - AZ-305 Designing Microsoft Azure Infrastructure Solutions Blueprint Template+
+  - AZ-305 Designing Microsoft Azure Infrastructure Solutions Blueprint https://aka.ms/AZ-305Blueprint
 
 ## Feedback
-Thank you for your support and collaboration. Please consider sharing your anonymous feedback https://forms.office.com/r/zyC4KAKwy0
+Thank you for your support and collaboration. 
+Please consider sharing your anonymous feedback https://forms.office.com/r/zyC4KAKwy0
 
 
