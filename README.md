@@ -22,6 +22,10 @@ Trainers can follow this plan to design a tailored diagram for their course, fil
 
 [![Introduction to Course Blueprint](https://img.youtube.com/vi/BWIm7oZ4bXs/0.jpg)](https://www.youtube.com/watch?v=BWIm7oZ4bXs)
 
+Mod 01 AZ-104 Overview using Azure Course Blueprint
+[![Introduction to Course Blueprint](https://img.youtube.com/vi/BWIm7oZ4bXs/0.jpg)](https://www.youtube.com/watch?v=BWIm7oZ4bXs)
+
+
 ## Download Links [PDF] [Visio] [Excel] [Video]
 - **Associate Level**: 
   - AZ-104 Azure Administrator Associate Blueprint https://aka.ms/AZ-104Blueprint
