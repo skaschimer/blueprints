@@ -40,6 +40,9 @@ Mod 01 AZ-104 Overview using Azure Course Blueprint
   - AZ-305 Designing Microsoft Azure Infrastructure Solutions Blueprint https://aka.ms/AZ-305Blueprint
   - SC-100 Microsoft Cybersecurity Architect Blueprint https://aka.ms/SC-100Blueprint
 
+Full list @
+https://aka.ms/courseblueprint
+
 ## Feedback
 Thank you for your support and collaboration. 
 Please consider sharing your anonymous feedback https://forms.office.com/r/zyC4KAKwy0
