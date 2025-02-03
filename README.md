@@ -44,7 +44,9 @@ Full list @
 https://aka.ms/courseblueprint
 
 ## Feedback
-Thank you for your support and collaboration. 
-Please consider sharing your anonymous feedback https://forms.office.com/r/zyC4KAKwy0
+Thank you for your support and collaboration.
 
+Please consider sharing your anonymous feedback here https://forms.office.com/r/zyC4KAKwy0
 
+My email ilan.nyska@microsoft.com  
+LinkedIn https://www.linkedin.com/in/ilan-nyska/  
