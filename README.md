@@ -1,7 +1,7 @@
-# Azure Course Blueprints
+# Azure Training Maps
 
 ## Overview
-The Course Blueprint is a comprehensive visual guide to the Azure ecosystem, integrating all the resources, tools, structures, and connections covered in the course into one inclusive diagram. It enables students to map out and understand the elements they've studied, providing a clear picture of their place within the larger Azure ecosystem. It serves as a 1:1 representation of all the topics officially covered in the instructor-led training.
+The Training Map is a comprehensive visual guide to the Azure ecosystem, integrating all the resources, tools, structures, and connections covered in the course into one inclusive diagram. It enables students to map out and understand the elements they've studied, providing a clear picture of their place within the larger Azure ecosystem. It serves as a 1:1 representation of all the topics officially covered in the instructor-led training.
 
 ## Links
 Each icon in the blueprint has a hyperlink to the pertinent document in the learning path on Learn.
@@ -22,26 +22,6 @@ Trainers can follow this plan to design a tailored diagram for their course, fil
 
 [![Introduction to Course Blueprint](https://img.youtube.com/vi/BWIm7oZ4bXs/0.jpg)](https://www.youtube.com/watch?v=BWIm7oZ4bXs)
 
-Mod 01 AZ-104 Overview using Azure Course Blueprint
-
-[![Course Blueprint Overview](https://img.youtube.com/vi/ScWOzTKU8cc/0.jpg)](https://www.youtube.com/watch?v=ScWOzTKU8cc&list=PL_WtBm29y-f7XKjvM_yrbwZX0swu4ISNp)
-
-
-## Download Links [PDF] [Visio] [Excel] [Video]
-- **Associate Level**: 
-  - AZ-104 Azure Administrator Associate Blueprint https://aka.ms/AZ-104Blueprint
-  - AZ-204 Azure Developer Associate Blueprint https://aka.ms/AZ-204Blueprint
-  - AZ-500 Azure Security Engineer Associate Blueprint https://aka.ms/AZ-500Blueprint
-  - AZ-700 Azure Network Engineer Associate Blueprint https://aka.ms/AZ-700Blueprint
-  - SC-300 Identity and Access Administrator Associate Blueprint https://aka.ms/SC-300Blueprint
-- **Specialty**: 
-  - AZ-140 Azure Virtual Desktop Specialty Blueprint https://aka.ms/AZ-140Blueprint
-- **Expert Level**: 
-  - AZ-305 Designing Microsoft Azure Infrastructure Solutions Blueprint https://aka.ms/AZ-305Blueprint
-  - SC-100 Microsoft Cybersecurity Architect Blueprint https://aka.ms/SC-100Blueprint
-
-Full list @
-https://aka.ms/courseblueprint
 
 ## Feedback
 Thank you for your support and collaboration.
@@ -50,3 +30,5 @@ Please consider sharing your anonymous feedback here https://forms.office.com/r/
 
 My email ilan.nyska@microsoft.com  
 LinkedIn https://www.linkedin.com/in/ilan-nyska/  
+
+Full list at https://aka.ms/TrainingMaps
